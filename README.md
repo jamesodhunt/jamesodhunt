@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- My work account is @jodh-nvidia.
-- My old work account is @jodh-intel.
+- My work account is [jodh-nvidia](https://github.com/jodh-nvidia).
+- My old work account is [jodh-intel](https://github.com/jodh-intel).
 
 <!--
 **jamesodhunt/jamesodhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
